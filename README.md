@@ -8,4 +8,4 @@ The files includes:
 - **heap.c**: A file with the main implementation of the allocator, the operations and the garbage collector.
 - **main.c**: A PoC showing the logic of the heap allocator and how the garbage collection works. 
 
-This repository works with a complementary paper explaining this stuff in the following ![link](https://qv1ntv5.github.io/2025-07-11-GarbageCollector/)
+This repository works with a complementary paper explaining this stuff in the following [link](https://qv1ntv5.github.io/2025-07-11-GarbageCollector/)
